@@ -1,6 +1,6 @@
 Encode Solidity Bootcamp Group 9, HW 1
 
-Group Members: Kit Sidhu, Hussam Alsaliti, Zachary Halaby
+Group Members: Kit Sidhu, Hussam Alsaliti, Zachary Halaby, Xuelan Wu
 
 Assignment:
 
